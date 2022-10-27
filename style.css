@@ -12,7 +12,7 @@ body {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 10.24px;
+    font-size: 20px;
     line-height: 150%;
  }
 
@@ -26,7 +26,7 @@ body {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 45px;
     line-height: 30px;
 }
 
@@ -35,7 +35,7 @@ body {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 12.8px;
+    font-size: 30px;
     line-height: 15px;
 }
 
@@ -43,4 +43,36 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center
+}
+
+.contact-div {
+    display: flex;
+    justify-content: space-between;
+    margin: 35px
+}
+
+.contact-div > button {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 16px;
+}
+
+.btn-img {
+    margin-right: 5px;
+}
+
+.email-btn {
+    width: 215px;
+    height: 44px;
+    background-color: #D1D5DB;
+    border-radius: 6px
+}
+
+.linkedin-btn {
+    background-color: #5093E2;
+    width: 215px;
+    border-radius: 6px;
+    color: #FFFFFF;
 }
