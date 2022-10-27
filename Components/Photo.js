@@ -4,7 +4,7 @@ import ReactDOM from "react-dom"
 
 function Photo() {
     return (
-    
+        <img className="profile-photo" src="images/profile.jpg"></img>
     )
 }
 

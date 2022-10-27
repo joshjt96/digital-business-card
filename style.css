@@ -2,3 +2,7 @@
     box-sizing: border-box;
 }
 
+.profile-photo {
+    display: block;
+    margin: auto;
+}
