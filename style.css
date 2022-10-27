@@ -16,10 +16,14 @@ body {
     line-height: 150%;
  }
 
+/* Photo */
+
 .profile-photo {
     display: block;
     margin: auto;
 }
+
+/* Personal Info */
 
 .info-div > h1 {
     color: #FFFFFF;
@@ -44,6 +48,8 @@ body {
     flex-direction: column;
     align-items: center
 }
+
+/* Contact Buttons */
 
 .contact-div {
     display: flex;
@@ -75,4 +81,21 @@ body {
     width: 215px;
     border-radius: 6px;
     color: #FFFFFF;
+}
+
+/* About */
+
+.about-div {
+    color: #DCDCDC;
+    margin: 35px;
+}
+
+.about-div > h3 {
+    font-family: 'Inter';
+    font-size: 25px;
+    line-height: 16px;
+}
+
+.about-div > p {
+    font-family: 'Inter';
 }
