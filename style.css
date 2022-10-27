@@ -99,3 +99,11 @@ body {
 .about-div > p {
     font-family: 'Inter';
 }
+
+/* Footer */
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 150px
+}
