@@ -72,7 +72,7 @@ body {
 .email-btn {
     width: 215px;
     height: 44px;
-    background-color: #D1D5DB;
+    background-color: #7d7e80;
     border-radius: 6px
 }
 
@@ -82,6 +82,10 @@ body {
     border-radius: 6px;
     color: #FFFFFF;
 }
+
+/* .email-text {
+    color: #23252C;
+} */
 
 /* About */
 
